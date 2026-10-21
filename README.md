@@ -197,6 +197,7 @@ The plots are saved in `results/plots/`.
 
 ## Results
 
+
 The following measurements were obtained from the included benchmark run. Execution time is machine-dependent, so these values demonstrate the observed behavior of this implementation rather than universal hardware-independent timings.
 
 ### Kruskal vs. Prim
