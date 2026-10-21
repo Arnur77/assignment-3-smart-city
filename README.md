@@ -307,6 +307,8 @@ Important correctness checks include:
 
 ## Conclusion
 All required graph algorithms are implemented using adjacency lists.
+The implementation was tested on disconnected graphs, cyclic graphs,
+graphs with duplicate edge weights, unreachable vertices, and single-vertex graphs.
 The project implements the required graph algorithms for smart-city infrastructure planning and route analysis. MST algorithms minimize the cost of connecting districts, SCC and topological ordering analyze directed infrastructure dependencies, and Dijkstra finds shortest routes when edge weights are non-negative.
 
 The benchmark framework provides reproducible graph generation, five timing repetitions, operation counts, CSV result tables, and two required plots. The tests verify the main correctness requirements and edge cases
