@@ -1,0 +1,10 @@
+algorithm,graph_type,vertices,edges,average_time_ns,operations
+SCC,DAG,10,30,113220,60
+Topological,DAG,10,30,105680,60
+Topological,Cyclic,10,31,2040,31
+SCC,DAG,100,500,108200,1000
+Topological,DAG,100,500,483960,1000
+Topological,Cyclic,100,501,61700,677
+SCC,DAG,1000,5000,824700,10000
+Topological,DAG,1000,5000,463920,10000
+Topological,Cyclic,1000,5001,414080,9228

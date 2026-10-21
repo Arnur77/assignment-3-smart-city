@@ -1,0 +1,7 @@
+algorithm,vertices,edges,average_time_ns,operations
+Kruskal,10,30,52820,67
+Prim,10,30,51480,73
+Kruskal,100,500,285820,1218
+Prim,100,500,246180,1216
+Kruskal,1000,5000,1340220,23372
+Prim,1000,5000,2296660,13973

@@ -1,0 +1,4 @@
+algorithm,vertices,edges,average_time_ns,operations
+Dijkstra,10,30,13440,51
+Dijkstra,100,500,63920,357
+Dijkstra,1000,5000,670760,3100
